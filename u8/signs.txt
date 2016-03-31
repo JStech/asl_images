@@ -1,0 +1,49 @@
+family
+parents
+grandmother
+grandfather
+aunt
+uncle
+cousin
+husband
+wife
+daughter
+son
+children
+nephew
+niece
+marry
+separated
+divorce
+back together
+friend
+good friend
+go steady
+boyfriend
+girlfriend
+roommate
+grow up together
+now
+today
+yesterday
+recently
+long ago
+before
+tomorrow
+will
+later
+after awhile
+far in future
+all
+since
+of course
+really
+realize
+long
+short
+time
+birthday
+seem
+with
+finish
+movie
