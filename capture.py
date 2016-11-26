@@ -15,6 +15,7 @@ def capture_sign(sign, i):
 
 def main(stdscr):
   while True:
+    stdscr.clear()
     stdscr.addstr("Enter next sign, or emtpy string to quit\n")
     c = stdscr.getch()
     if c==10:
